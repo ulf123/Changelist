@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Changelist.Data;
+using Changelist.Model;
 
-namespace Changelist.Data
+namespace Changelist.Model
 {
     class ChangelistSubItems
     {
