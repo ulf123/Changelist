@@ -1,6 +1,6 @@
 ﻿namespace Changelist
 {
-    partial class Form1
+    partial class Changelist
     {
         /// <summary>
         /// Erforderliche Designervariable.

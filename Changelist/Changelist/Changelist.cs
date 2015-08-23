@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Changelist
 {
-    public partial class Form1 : Form
+    public partial class Changelist : Form
     {
-        public Form1()
+        public Changelist()
         {
             InitializeComponent();
         }

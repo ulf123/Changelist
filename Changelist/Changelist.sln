@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Changelist.View", "Changelist\Changelist.View.csproj", "{7B896C56-708B-4EC4-9222-F674EC4AF559}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Changelist.Data", "Changelist.Data\Changelist.Data.csproj", "{7318D3D2-1FF4-4E30-875B-4A464E4F313E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Changelist.Model", "Changelist.Data\Changelist.Model.csproj", "{7318D3D2-1FF4-4E30-875B-4A464E4F313E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Changelist.Control", "Changelist.Control\Changelist.Control.csproj", "{DB620F93-B4E8-4000-A4E3-A97D821CBF55}"
 EndProject
